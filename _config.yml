@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://rebeccation.github.io
 title: rebeccation
-tagline: A log of everyday life
-description: My awesome new site
-paginate: 5
+tagline: some stuff that wanted saying
+description: reb blogs about stuff
+paginate: 10
